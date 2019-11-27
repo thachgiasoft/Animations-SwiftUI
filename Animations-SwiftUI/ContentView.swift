@@ -37,16 +37,16 @@ struct ContentView: View {
           NavigationLink(destination: CustomAnimation03()) {
             Text("Demo 3")
           }
-          NavigationLink(destination: CustomAnimation01()) {
+          NavigationLink(destination: CustomAnimation04()) {
             Text("Demo 4")
           }
-          NavigationLink(destination: CustomAnimation02()) {
+          NavigationLink(destination: CustomAnimation05()) {
             Text("Demo 5")
           }
-          NavigationLink(destination: CustomAnimation03()) {
+          NavigationLink(destination: CustomAnimation06()) {
             Text("Demo 6")
           }
-          NavigationLink(destination: CustomAnimation03()) {
+          NavigationLink(destination: CustomAnimation07()) {
             Text("Demo 7")
           }
         }
